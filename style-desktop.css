@@ -73,6 +73,7 @@ main {
   height: 58px;
   border-radius: 3.125em;
   border: none;
+  background-color: hsl(0, 0%, 100%);
   color: var(--violet);
   font-family: var(--poppins-font);
   font-size: 1.125em;
