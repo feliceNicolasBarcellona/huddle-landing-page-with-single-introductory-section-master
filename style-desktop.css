@@ -69,8 +69,8 @@ main {
 }
 
 .btn {
-  width: 12.5625em;
-  height: 3.5em;
+  width: 200px;
+  height: 58px;
   border-radius: 3.125em;
   border: none;
   color: var(--violet);
