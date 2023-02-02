@@ -1,0 +1,56 @@
+@media only screen and (min-width: 481px) and (max-width: 768px) {
+  main {
+    background-image: url("images/bg-mobile.svg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 4.125em 4.5em 4.8125em 4.5em;
+    margin: 0 auto;
+  }
+
+  .logo{
+    width: 15.3125em;
+  }
+
+  .mid-container {
+    flex-direction: column;
+    width: 100%;
+    height: auto;
+    margin-top: 7.4375em;
+  }
+
+  .mid-left {
+    display: flex;
+    width: 100%;
+  }
+
+  .mid-right {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 0;
+    margin-top: 7.5625em;
+  }
+
+  .title {
+    font-size: 3em;
+  }
+
+  .description {
+    font-size: 1.96875em;
+    font-weight: 400;
+    margin-top: 1.5625em;
+  }
+
+  .btn {
+    width: 398px;
+    height: 81px;
+    font-size: 1.325em;
+  }
+
+  .social {
+    justify-content: center;
+    margin-top: 6.6875em;
+  } 
+
+}
